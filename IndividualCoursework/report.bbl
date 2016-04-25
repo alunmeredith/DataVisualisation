@@ -1,0 +1,60 @@
+\begin{thebibliography}{10}
+
+\bibitem{scifi}
+S.~Artut, 2016.
+
+\bibitem{perception}
+W.~S. Cleveland and R.~McGill.
+\newblock Graphical perception and graphical methods for analyzing scientific
+  data.
+\newblock {\em Science}, 229(4716):828--833, 1985.
+
+\bibitem{floridagun}
+P.~Engel.
+\newblock This chart shows an alarming rise in florida gun deaths after 'stand
+  your ground' was enacted, 2016.
+
+\bibitem{showme}
+S.~Few.
+\newblock Show me the numbers.
+\newblock {\em Analytics Pres}, 2004.
+
+\bibitem{twentytwo}
+K.~L. Kelly.
+\newblock Twenty-two colors of maximum contrast.
+\newblock {\em Color Engineering}, 3(26):26--27, 1965.
+
+\bibitem{circoscite}
+M.~I. Krzywinski, J.~E. Schein, I.~Birol, J.~Connors, R.~Gascoyne, D.~Horsman,
+  S.~J. Jones, and M.~A. Marra.
+\newblock Circos: An information aesthetic for comparative genomics.
+\newblock {\em Genome Research}, 2009.
+
+\bibitem{xkcd}
+R.~Monroe.
+\newblock Pipelines, feb 2016.
+
+\bibitem{bloomberg}
+A.~Pearce and D.~Gambrell.
+\newblock This chart shows who marries ceos, doctors, chefs and janitors, feb
+  2016.
+
+\bibitem{iraqdeaths}
+S.~Scarr.
+\newblock Iraq's bloody toll | south china morning post, 2016.
+
+\bibitem{narrative}
+E.~Segel and J.~Heer.
+\newblock Narrative visualization: Telling stories with data.
+\newblock {\em IEEE Trans. Visual. Comput. Graphics}, 16(6):1139--1148, 2010.
+
+\bibitem{tufte}
+E.~R. Tufte and P.~Graves-Morris.
+\newblock {\em The visual display of quantitative information}, volume~2.
+\newblock Graphics press Cheshire, CT, 1983.
+
+\bibitem{sexy}
+F.~Viegas and M.~Wattenberg.
+\newblock How to make data look sexy, 2016.
+
+\end{thebibliography}
