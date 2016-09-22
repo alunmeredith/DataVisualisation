@@ -1,0 +1,23 @@
+Guidance:
+- identify the reasons why you regard these examples as worthy of interest
+- narrative context within which the data being visualised is used as evidence
+- you might have to make up a scenario or question that the graphic is answerable to
+- is the design of the visualisation faithful to data
+- improvements based on visual processing of features, aesthetic conventions or statistical rectitude
+
+An introductory section should provide an overview in order to engage the reader -- you have done so! 
+
+You've made a brilliant choice in Case 1.  This was a great visualisation, and your comments were fair and balanced.  You integrated theoretical generarilities well but your attention to design issues is most impressive.  The critiques in the second example were brief and pertinent, and I liked the context-setting within the article in which the diagram appears.  The need for guidance in a display that requires intervention to find information is well made as is the possibility of enabling similarly exploratory displays but with a non-animated display. I also liked the references in Case 3 to other visualisations that inspired this design.  The remarks about changing gun deaths shouwed engagement.
+
+Writing: The first sentence is missing a word. There are a couple of other such grammatical infelicities that should be caught when proofreading. Is "mousing" now a word?  It seems to be and I didn't know that!
+
+Otherwise, a really well-written report that was a pleasure to read!
+
+Marking criteria:
+- Choosing the visualisations and justifying the reasons why they were chosen  5/30
+- How is the evidence used in the story? Explaining problems and issues (see criteria above)  10/30
+- Making appropriate suggestions for improvement indicating why and how they address the issues identified 10/30
+- Structure of the report, writing, presentation and grammar  5/10
+
+(5/5)+(10/10)+(10/10)+(4/5)
+Final Mark: 29/30
